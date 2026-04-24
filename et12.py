@@ -35,4 +35,4 @@ conn.commit()
 cursor.close()
 conn.close()
 
-print("✅ Data Ingested Successfully to Dinesh Test2")
+print("✅ Data Ingested Successfully to Dinesh Test!")
